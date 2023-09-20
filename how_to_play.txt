@@ -1,0 +1,4 @@
+
+---how to play--
+User can avoid the blocks,when user clicks 'space' button to jump. if not Game will over.
+marks will be counted.
